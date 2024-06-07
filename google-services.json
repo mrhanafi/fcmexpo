@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614943189510",
+    "project_id": "fcmexpoapp",
+    "storage_bucket": "fcmexpoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614943189510:android:f5310dd083cb1776a87187",
+        "android_client_info": {
+          "package_name": "com.markonah.fcmexpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjcCm_iURivTb-5nKL681uh5jT32nz744"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
